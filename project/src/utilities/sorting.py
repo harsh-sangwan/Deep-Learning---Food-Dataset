@@ -1,5 +1,5 @@
 """
- find_first_unique_k.py  (author: Anson Wong / github: ankonzoid)
+
  
  Find the lowest distance top-k unique indices.
 """

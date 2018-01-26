@@ -1,5 +1,5 @@
 """
- Autoencoder base (author: Anson Wong / git: ankonzoid)
+
 """
 from abc import ABC, abstractmethod
 

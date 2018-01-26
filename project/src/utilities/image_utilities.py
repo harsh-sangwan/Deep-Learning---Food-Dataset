@@ -1,5 +1,5 @@
 """
- image_utilities.py (author: Anson Wong / git: ankonzoid)
+
 
  Image utilities class that helps with image data IO and processing.
 """

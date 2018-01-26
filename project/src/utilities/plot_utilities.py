@@ -1,6 +1,5 @@
 """
- 
- plot_utilities.py (author: Anson Wong / git: ankonzoid)
+
 
 """
 import matplotlib.pyplot as plt

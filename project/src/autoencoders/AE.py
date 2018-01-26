@@ -1,5 +1,4 @@
 """
- AE.py  (author: Anson Wong / git: ankonzoid)
 
  Autoencoder class (for both simple & convolutional)
 """
